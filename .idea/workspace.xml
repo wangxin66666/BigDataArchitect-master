@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5970735-b227-4cf9-a656-bd146d219b83" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/spark/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/java/com/msb/bigdata/spark/WordCountJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson00_Object_Class.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson01_IF_WHILE_FOR.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson02_Functions.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson03_Collections.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson04_trait.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson05_case_class.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson06_match.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson07_PartialFunction.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/Lesson08_implicit.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/scala/TestJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/spark/WordCountScala.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/spark/lesson01_rdd_api01.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/spark/lesson02_rdd_api_sort.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/spark/lesson03_rdd_aggregator.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/spark/lesson04_rdd_partitions.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark/src/main/scala/com/msb/bigdata/spark/lesson05_rdd_gaoji.scala" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/opt/apache-maven-3.5.4" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx1768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SRgb8mHG25sjSD7ktDW6WDcf8J" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bigdata-spark/src/main" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bigdata-spark" />
+      <recent name="$PROJECT_DIR$/bigdata-zookeeper/src/main/resources" />
+      <recent name="$PROJECT_DIR$/bigdata-zookeeper" />
+      <recent name="$PROJECT_DIR$/bigdata-redis" />
+      <recent name="$PROJECT_DIR$/bigdata-hadoop" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.msb.bigdata.spark" />
+      <recent name="com.msb.bigdata.scala" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.msb.bigdata.spark" />
+      <recent name="com.msb.bigdata" />
+      <recent name="com.msb.bigdata.hdfs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bigdata-spark/src/main" />
+      <recent name="$PROJECT_DIR$/bigdata-zookeeper/src/main/java" />
+      <recent name="$PROJECT_DIR$/bigdata-redis/src/main/resources" />
+      <recent name="$PROJECT_DIR$/bigdata-redis/src/main/java" />
+      <recent name="$PROJECT_DIR$/bigdata-hadoop/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WordCountJava">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.msb.zookeeper.App" />
+      <module name="bigdata-zookeeper" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msb.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.msb.bigdata.hadoop.fof.MyFof" />
+      <module name="bigdata-hadoop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msb.bigdata.hadoop.fof.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.msb.bigdata.spark.WordCountJava" />
+      <module name="bigdata-spark" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msb.bigdata.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ooxx" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.msb.bigdata.scala.ooxx" />
+      <module name="bigdata-spark" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msb.bigdata.scala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdata-zookeeper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msb.zookeeper.locks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.msb.zookeeper.locks" />
+      <option name="MAIN_CLASS_NAME" value="com.msb.zookeeper.locks.TestLock" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyFof" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.TestLock" />
+      <item itemvalue="Application.ooxx" />
+      <item itemvalue="Application.WordCountJava" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordCountJava" />
+        <item itemvalue="Application.ooxx" />
+        <item itemvalue="Application.MyFof" />
+        <item itemvalue="JUnit.TestLock" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5970735-b227-4cf9-a656-bd146d219b83" name="Default Changelist" comment="" />
+      <created>1571531890592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571531890592</updated>
+      <workItem from="1571531891816" duration="2179000" />
+      <workItem from="1571534132842" duration="296000" />
+      <workItem from="1571534448473" duration="1181000" />
+      <workItem from="1571535750361" duration="4465000" />
+      <workItem from="1571540476197" duration="2849000" />
+      <workItem from="1571543516817" duration="1102000" />
+      <workItem from="1571544628578" duration="3046000" />
+      <workItem from="1571548798294" duration="703000" />
+      <workItem from="1571549522223" duration="1178000" />
+      <workItem from="1571550722857" duration="865000" />
+      <workItem from="1571551607752" duration="623000" />
+      <workItem from="1571552238794" duration="769000" />
+      <workItem from="1571567380976" duration="3285000" />
+      <workItem from="1571681327490" duration="2239000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1571545803904</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571545803904</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1571683445188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571683445188</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+</project>
