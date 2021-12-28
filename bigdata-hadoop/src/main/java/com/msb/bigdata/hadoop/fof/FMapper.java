@@ -16,7 +16,6 @@ public class FMapper extends Mapper<LongWritable, Text,Text, IntWritable> {
 
     @Override
     protected void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
-        //value:   马老师 一名老师 刚老师 周老师
 
         String[] strs = StringUtils.split(value.toString(), ' ');
 

@@ -21,7 +21,7 @@ public class MyTemplate {
 
         StringRedisTemplate tp = new StringRedisTemplate(fc);
 
-        tp.setHashValueSerializer(new Jackson2JsonRedisSerializer<Object>(Object.class));
+        tp.setHashValueSerializer(new Jackson2JsonRedisSerializer<>(Object.class));
         return  tp ;
     }
 
